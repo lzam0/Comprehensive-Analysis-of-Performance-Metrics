@@ -15,3 +15,8 @@ Volleyball demands individual skill, strategy, and teamwork for success. Teams l
   -	Setter (S)
   -	Libero (L)
   -	Defensive Specialist (DS)
+
+## Data Collection
+I initially thought of investigating Volleyball England Super League statistics; however the website did not provide team sheets of players. However, I opted to examine the NCAA final contenders, UCLA and Hawaii, of the 2023 volleyball championship. This match matchup was eagerly awaited as one of the highlights of the 2023 season.
+Data link sources: https://stats.ncaa.org/team/110/stats/16380 , https://stats.ncaa.org/team/277/stats/16380
+I manually scraped data (copied and pasted fields), such as player name, jersey number, height, etc... I decided that using two teams roster data was sufficient as I wanted to compare both teams against each other. This process was painfully long as initially I wanted to scrape the data using a python program to grab the data from the website tables. The NCAA website has a data protection policy, and I did not want to break the policy through scraping the data. Some fields were null values, resulting in incorrect csv formatting, which required me to alter the csv until it was accurate to the table on the website. When importing the csv into my program, I filled null values with 0 as a placeholder and discarded player data when necessary. 
