@@ -50,9 +50,37 @@ Another noteworthy observation is that UCLA and Hawaii each have key hitters who
 Though Hawaii’s attacking performance shows that the oppo hitter has the highest individual kill total, the position that scored the highest overall total of points through offence is the outside hitters with a 44.5% team attacking total. With both outside and opposite hitters posing a threat to the front court blockers of opposing teams, it could result in more one-on-one blocks attempts, resulting in an outstanding offensive total.
 Alternatively, UCLA primarily relies on their OH for offensive points, indicating that the team offensive statistics are centered on high level, smart OH in a high number of scoring chances, accounting for 84.4% of their scoring opportunities. This implies that UCLA OH excels in generating points on the front and back court. One potential reason for OH’s higher kill rate could be attributed to the lower passing percentage, therefore, reducing opportunities for the MB and OPP to attack.
 
+## Conclusion
+In conclusion, this investigation into the performance metrics of the UCLA and Hawaii Men’s 
+Volleyball team during 2023 season contains valuable insight of key success elements. Through 
+a comprehensive analysis of player and overall team performance with the use of data science, 
+several key factors have emerged. We first investigated player heights across each position. 
+Additionally, examined the passing and digging, along with offensive strategies within both 
+teams. demonstrating a slightly superior defensive prowess and UCLA showcasing a more 
+focused offensive strategy.
+Furthermore,our analysis covered significant players such as Dimitrios Mouchlias from Hawaii, 
+whose performance on court, aid team Hawaii in strengthening their offence. From what we 
+have observed, volleyball is a combination of individual success, team chemistry and strategic 
+adaptability. Asthe sport continuing to evolve, this investigation informs enthusiasts like myself 
+but also provide valuable knowledge for players, coaches and analysists worldwide. Using data 
+science, we can obtain a greater deeper understanding and appreciation of the sport.
+Possible Improvements on Project
+- Investigate into height metrics
+- Investigate into serving metrics (Key factor on gaining a point)
+- Investigate into passing metrics further
+
 ## References
-1. What is a dig/ pass? https://volleyballadvisor.com/what-is-a-dig-in-volleyball/#:~:text=Definition%20of%20a%20dig,-In%20my%20experience&text=A%20dig%20is%20defined%20as,to%20set%20up%20a%20counterattack.
-2.	What is a kill? NCAA rules (article 2) http://fs.ncaa.org/Docs/stats/Stats_Manuals/VB/2008%20VB%20Stats%20Manual%20easy%20print.pdf
-3.	What is kill? NCAA article 2020 https://www.ncaa.com/news/volleyball-women/article/2020-07-14/college-volleyball-dictionary-glossary-and-terms-everything-you-need-know
-4.	What is a kill error? NCAA rules (article 3) http://fs.ncaa.org/Docs/stats/Stats_Manuals/VB/2008%20VB%20Stats%20Manual%20easy%20print.pdf
-5.	Can a Libero Kill a volleyball? https://goldmedalsquared.com/post/what-is-a-libero-in-volleyball/#:~:text=A%20libero%20is%20not%20allowed,happen%20from%20time%20to%20time.
+1. UCLA Data: https://stats.ncaa.org/team/110/stats/16380
+2. Hawaii Data: https://stats.ncaa.org/team/277/stats/16380
+3. What is a dig/ pass? https://volleyballadvisor.com/what-is-a-dig-involleyball/#:~:text=Definition%20of%20a%20dig,-
+In%20my%20experience&text=A%20dig%20is%20defined%20as,to%20set%20up%20a
+%20counterattack.
+4. What is a kill? NCAA rules (article 2) 
+http://fs.ncaa.org/Docs/stats/Stats_Manuals/VB/2008%20VB%20Stats%20Manual%20
+easy%20print.pdf
+5. What is kill? NCAA article 2020 https://www.ncaa.com/news/volleyballwomen/article/2020-07-14/college-volleyball-dictionary-glossary-and-termseverything-you-need-know
+6. What is a kill error? NCAA rules (article 3) 
+http://fs.ncaa.org/Docs/stats/Stats_Manuals/VB/2008%20VB%20Stats%20Manual%20
+easy%20print.pdf
+7. Can a Libero Kill a volleyball? https://goldmedalsquared.com/post/what-is-a-libero-involleyball/#:~:text=A%20libero%20is%20not%20allowed,happen%20from%20time%20
+to%20time
