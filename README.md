@@ -26,10 +26,10 @@ Through this project, I aim to investigate the performance metrics of both teams
 
 ### Player Height Analysis
 Height is a critical factor in volleyball, influencing players’ effectiveness in various positions on the court. In this comparative analysis, we delve into the height distribution of players across different positions of Hawaii and UCLA. I modified the initial data so that positions L and DS are combined so that there would be some consistency between both teams. (UCLA does not have a DS). Furthermore, I modified height data so that values were shown in cm rather than ft, so that exact values can be easier to understand.
-![image](https://github.com/lzam0/Volleyball-Data-Science-Project/assets/110193626/c7430587-df0c-4238-8d67-ad20a96b5f8e)
 
-Through this visualisation, we can see a range of heights of each position between both teams
 ![image](https://github.com/lzam0/Volleyball-Data-Science-Project/assets/110193626/d407d0a7-5c3e-402b-90e4-f1a0c7a366a9)
+Through this visualisation, we can see a range of heights of each position between both teams
+![image](https://github.com/lzam0/Volleyball-Data-Science-Project/assets/110193626/430443d3-7d96-49db-b89b-de546894bf6e)
 
 
 ### Player Passing/ Digs Analysis
@@ -42,8 +42,9 @@ This data is interesting because Hawaii has a 2% better defense than UCLA. This 
 ### Player Kill Analysis
 Another metric that would be interesting to investigate would be the kills of induvial players throughout the season. With this data, we can observe player kills and errors, analyse the team's setting distribution, and assess attacking efficiency. Comparing each team will enable us to identify trends across the two teams.
 ![image](https://github.com/lzam0/Comprehensive-Analysis-of-Performance-Metrics/assets/110193626/c0e25891-31d9-47ee-8eb1-16150f061ea8)
-In this figure, I decided to remove positions L/DS as those kills were not valid 
-The data presented in Figure [Number] illustrates the kill statistics for both Hawaii and UCLA. The green bar represents Hawaii's successful attacking performance, while the blue bar denotes UCLA's successful attacks. Additionally, error bars coloured in purple and orange represent the attacking errors made by each team. Some observations to take note is that Hawaii has a lower kill total compared to UCLA. This is significant as this could suggest that UCLA’s offence performs better overall compared to Hawaii.
+In this figure, I decided to remove positions L/DS as those kills were not valid, as I wanted to investigate specifically attacking positions of each team.
+The data presented in Figure 4 illustrates the kill statistics for both Hawaii and UCLA. The green bar represents Hawaii's successful attacking performance, while the blue bar denotes UCLA's successful attacks. Additionally, error bars coloured in purple and orange represent the attacking errors made by each team. Some observations to take note is that Hawaii has a lower kill total compared to UCLA. This is significant as this could suggest that UCLA’s offence performs better overall compared to Hawaii.
+
 ![image](https://github.com/lzam0/Comprehensive-Analysis-of-Performance-Metrics/assets/110193626/d15e3dc4-046c-411b-865c-1e09fc61d846)
 ![image](https://github.com/lzam0/Comprehensive-Analysis-of-Performance-Metrics/assets/110193626/b9207e68-a1e5-4b92-b2c6-dd31fad191ef)
 Another noteworthy observation is that UCLA and Hawaii each have key hitters who contribute the highest attacking points to their teams compared to other positions. Hawaii offence revolves in utilising all hitters available, as seen in the pie chart of kills. However, the data suggests that Dimitrios Mouchlias (OPP) is a key part of Hawaii’s dynamics and offensive strategy, as he boasts a 19% higher success rate in attacks compared to the next highest offensive scorer. 
@@ -51,23 +52,16 @@ Though Hawaii’s attacking performance shows that the oppo hitter has the highe
 Alternatively, UCLA primarily relies on their OH for offensive points, indicating that the team offensive statistics are centered on high level, smart OH in a high number of scoring chances, accounting for 84.4% of their scoring opportunities. This implies that UCLA OH excels in generating points on the front and back court. One potential reason for OH’s higher kill rate could be attributed to the lower passing percentage, therefore, reducing opportunities for the MB and OPP to attack.
 
 ## Conclusion
-In conclusion, this investigation into the performance metrics of the UCLA and Hawaii Men’s 
-Volleyball team during 2023 season contains valuable insight of key success elements. Through 
-a comprehensive analysis of player and overall team performance with the use of data science, 
-several key factors have emerged. We first investigated player heights across each position. 
-Additionally, examined the passing and digging, along with offensive strategies within both 
-teams. demonstrating a slightly superior defensive prowess and UCLA showcasing a more 
-focused offensive strategy.
-Furthermore,our analysis covered significant players such as Dimitrios Mouchlias from Hawaii, 
-whose performance on court, aid team Hawaii in strengthening their offence. From what we 
-have observed, volleyball is a combination of individual success, team chemistry and strategic 
-adaptability. Asthe sport continuing to evolve, this investigation informs enthusiasts like myself 
-but also provide valuable knowledge for players, coaches and analysists worldwide. Using data 
-science, we can obtain a greater deeper understanding and appreciation of the sport.
-Possible Improvements on Project
-- Investigate into height metrics
-- Investigate into serving metrics (Key factor on gaining a point)
-- Investigate into passing metrics further
+In conclusion, this investigation into the performance metrics of the UCLA and Hawaii Men’s Volleyball team during 2023 season contains valuable insight of key success elements. Through a comprehensive analysis of player and overall team performance with the use of data science, several key factors have emerged. We first investigated player heights across each position. Additionally, examined the passing and digging, along with offensive strategies within both teams. demonstrating a slightly superior defensive prowess and UCLA showcasing a more focused offensive strategy.
+Furthermore, our analysis covered significant players such as Dimitrios Mouchlias from Hawaii, whose performance on court, aid team Hawaii in strengthening their offence. From what we have observed, volleyball is a combination of individual success, team chemistry and strategic adaptability. As the sport continuing to evolve, this investigation informs enthusiasts like myself but also provide valuable knowledge for players, coaches and analysists worldwide. Using data science, we can obtain a greater deeper understanding and appreciation of the sport.
+
+
+##Possible Improvements on Project
+- Investigate more height metrics
+-	Investigate into serving metrics (Key factor on gaining a point)
+-	Investigate into passing metrics further
+-	Show top 5 attackers from each team
+-	Show top 5 digs from each team
 
 ## References
 1. UCLA Data: https://stats.ncaa.org/team/110/stats/16380
