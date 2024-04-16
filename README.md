@@ -27,7 +27,8 @@ Through this project, I aim to investigate the performance metrics of both teams
 ### Player Height Analysis
 Height is a critical factor in volleyball, influencing players’ effectiveness in various positions on the court. In this comparative analysis, we delve into the height distribution of players across different positions of Hawaii and UCLA. I modified the initial data so that positions L and DS are combined so that there would be some consistency between both teams. (UCLA does not have a DS). Furthermore, I modified height data so that values were shown in cm rather than ft, so that exact values can be easier to understand.
 
-![image](https://github.com/lzam0/Volleyball-Data-Science-Project/assets/110193626/d407d0a7-5c3e-402b-90e4-f1a0c7a366a9)
+![image](https://github.com/lzam0/Volleyball-Data-Science-Project/assets/110193626/2bcfd411-0bf1-486c-b68f-5a25ac6877cf)
+
 Through this visualisation, we can see a range of heights of each position between both teams
 ![image](https://github.com/lzam0/Volleyball-Data-Science-Project/assets/110193626/430443d3-7d96-49db-b89b-de546894bf6e)
 
