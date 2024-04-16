@@ -57,7 +57,7 @@ In conclusion, this investigation into the performance metrics of the UCLA and H
 Furthermore, our analysis covered significant players such as Dimitrios Mouchlias from Hawaii, whose performance on court, aid team Hawaii in strengthening their offence. From what we have observed, volleyball is a combination of individual success, team chemistry and strategic adaptability. As the sport continuing to evolve, this investigation informs enthusiasts like myself but also provide valuable knowledge for players, coaches and analysists worldwide. Using data science, we can obtain a greater deeper understanding and appreciation of the sport.
 
 
-##Possible Improvements on Project
+## Possible Improvements on Project
 - Investigate more height metrics
 -	Investigate into serving metrics (Key factor on gaining a point)
 -	Investigate into passing metrics further
